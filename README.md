@@ -19,3 +19,10 @@ I created this code based on the homework prompt. Pieces of code I used online r
 ## Challenges
 
 For this project I ran into some issues with how to follow along with the resouce used and to make it fuction on my own. Focusing on completing other projects and getting operations combines was also a challenge.
+
+## Running App
+
+```
+node app start
+
+```
