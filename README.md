@@ -2,11 +2,11 @@
 
 ## Description
 
-App that uses the command line to present information given. TeamProfile will prompt the user for information about the team members. After all information is gathered the application creats a HTML page where the members info is formated in a responsice environment.
+App that uses the command line to present information given. TeamProfile will prompt the user for information about the team members. After all information is gathered the application creats a HTML page where the members info is formated in a responsive environment.
 
 ## Image
 
-See Git files
+![TeamProfile](/Assets/App.png)
 
 ## Usage
 
